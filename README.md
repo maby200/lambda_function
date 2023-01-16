@@ -1,6 +1,6 @@
 # Hi! I've created a Lambda Function.
 
-At my understanding, Lambda functions are useful to automate actions that might be useful for monitoring, or supervising the behavior of your server.
+At my understanding, Lambda functions are useful to automate actions that are be key when monitoring, or supervising the behavior of your server.
 
 In this repo, I uploaded a lambda function that gives you the response when payment in mercadopago is done.
 
